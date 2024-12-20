@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    margin-top: 5px;
+     text-align: center;
+    font-family: system-ui, Arial, sans-serif;
+}
+
+svg {
+    font-size: 9px;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+#tile-text {
+    font-weight: 700;
+}
+
+#title {
+    font-size: 2.5em;
+    margin-bottom: 7px;
+}
+
+#description {
+    padding-bottom: 1.5rem;
+}
+
+#tooltip {
+    position: absolute;
+    padding: 10px;
+    font: 12px Arial;
+    background: gainsboro;
+    font-weight: 900;
+    border-radius: 7px;
+}
+
+#legend {
+    font-size: 1.1em;
+    font-weight: 500; 
+    margin-top: 1em;
+}
